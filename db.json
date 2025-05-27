@@ -1,0 +1,222 @@
+{
+  "Mobiles": [
+    {
+      "name": "Galaxy-a35",
+      "price": 2999,
+      "image": "/img/galaxy-a35.png",
+      "id": "a127",
+      "description": "Galaxy A35 offers a vibrant Super AMOLED display, 5G connectivity, and a smooth user experience for everyday tasks."
+    },
+    {
+      "name": "Galaxy-a55",
+      "price": 7999,
+      "image": "/img/galaxy-a55.png",
+      "id": "8383",
+      "description": "Galaxy A55 is a mid-range performer with a sleek design, great camera, and long-lasting battery life."
+    },
+    {
+      "name": "Galaxy-s24",
+      "price": 2999,
+      "image": "/img/galaxy-s24.png",
+      "id": "f1a0",
+      "description": "Galaxy S24 is a flagship smartphone with a pro-grade camera, AI-powered features, and a powerful processor."
+    },
+    {
+      "name": "Galaxy-s25",
+      "price": 5999,
+      "image": "/img/galaxy-s25.png",
+      "id": "fe43",
+      "description": "Galaxy S25 delivers premium design and performance with next-gen display and enhanced security features."
+    },
+    {
+      "name": "Galaxy-s25pro",
+      "price": 5999,
+      "image": "/img/galaxy-s25pro.png",
+      "id": "a137",
+      "description": "Galaxy S25 Pro features a triple-lens camera system, 120Hz AMOLED display, and AI enhancements for superior performance."
+    },
+    {
+      "name": "Galaxy-z-fold6",
+      "price": 3999,
+      "image": "/img/galaxy-z-fold6.png",
+      "id": "a128",
+      "description": "Galaxy Z Fold6 redefines productivity with its foldable display, multitasking capabilities, and premium build quality."
+    },
+    {
+      "name": "Galaxy F15 5G",
+      "price": 4999,
+      "image": "/img/Samsung Galaxy F15 5G.jpg",
+      "id": "a129",
+      "description": "Galaxy F15 5G brings fast performance, stunning visuals, and great battery life, perfect for everyday use."
+    },
+    {
+      "name": "Galaxy F55",
+      "price": 8999,
+      "image": "/img/Samsung Galaxy F55 5G.jpg",
+      "id": "a130",
+      "description": "Galaxy F55 combines style and function, offering reliable speed, ample storage, and vibrant screen quality."
+    },
+    {
+      "name": "Galaxy M05 5G",
+      "price": 9999,
+      "image": "/img/Samsung Galaxy M05.jpg",
+      "id": "a131",
+      "description": "Galaxy M05 5G is built for budget users, featuring a large display, efficient battery, and solid performance."
+    },
+    {
+      "name": "Galaxy M06 5G",
+      "price": 13999,
+      "image": "/img/Samsung Galaxy M06 5G.jpg",
+      "id": "a132",
+      "description": "Galaxy M06 5G offers improved speed, a smooth UI experience, and enhanced power efficiency for daily use."
+    },
+    {
+      "name": "Galaxy-S24_FE",
+      "price": 12999,
+      "image": "/img/Galaxy-S24_FE.jpg",
+      "id": "a133",
+      "description": "Galaxy-S24_FE offers improved speed, a smooth UI experience, and enhanced power efficiency for daily use."
+    },
+    {
+      "name": "Galaxy-S25_Edge",
+      "price": 12999,
+      "image": "/img/Galaxy-S25_edge.jpg",
+      "id": "a134",
+      "description": "Galaxy-S25_FE offers improved speed, a smooth UI experience, and enhanced power efficiency for daily use."
+    }
+  ],
+  "Watches": [
+    {
+      "name": "Galaxy Ultra 6",
+      "price": 3999,
+      "image": "/img/Galaxy Ultra 6.png",
+      "id": "a133",
+      "description": "Premium smartwatch with AMOLED display, fitness tracking, and long battery life."
+    },
+    {
+      "name": "Galaxy Watch Ultra",
+      "price": 2999,
+      "image": "/img/Galaxy Watch Ultra.png",
+      "id": "a134",
+      "description": "Sleek and durable watch with health monitoring and advanced sport modes."
+    },
+    {
+      "name": "Galaxy ultra Pro",
+      "price": 7999,
+      "image": "/img/Samsung Galaxy Ultra pro.png",
+      "id": "a135",
+      "description": "Pro-level smartwatch with customizable faces and wellness tracking features."
+    },
+    {
+      "name": "Samsung Galaxy Watch 7",
+      "price": 8999,
+      "image": "/img/Samsung Galaxy Watch 7.png",
+      "id": "a136",
+      "description": "Next-gen Galaxy watch offering sleep tracking and heart rate monitoring."
+    },
+    {
+      "name": "Galaxy Watch Ultra",
+      "price": 8999,
+      "image": "/img/Samsung Galaxy Watch Ultra.png",
+      "id": "a137",
+      "description": "Ultra edition with robust build and daily activity tracking."
+    },
+    {
+      "name": "Galaxy Ultra 6",
+      "price": 7999,
+      "image": "/img/Galaxy Ultra 6.png",
+      "id": "a138",
+      "description": "A refined version of Ultra 6 with extended battery and stylish straps."
+    },
+    {
+      "name": "Galaxy Active 2",
+      "price": 6999,
+      "image": "/img/Galaxy Active 2.png",
+      "id": "a139",
+      "description": "Lightweight and fitness-focused smartwatch with built-in GPS."
+    },
+    {
+      "name": "Galaxy ultra 7Ai",
+      "price": 5999,
+      "image": "/img/Galaxy ultra 7Ai.png",
+      "id": "a140",
+      "description": "Smartwatch powered by AI assistant, designed for intelligent interaction."
+    },
+    {
+      "name": "Samsung ultra 8",
+      "price": 4999,
+      "image": "/img/Samsung ultra 8.png",
+      "id": "a141",
+      "description": "Affordable smartwatch with core health features and water resistance."
+    },
+    {
+      "name": "Samsung classic",
+      "price": 8999,
+      "image": "/img/Samsung classic.png",
+      "id": "a142",
+      "description": "Timeless design with basic smartwatch features and long-lasting battery."
+    },
+    {
+      "name": "Samsung Gold Ring",
+      "price": 9999,
+      "image": "/img/Samsungring1.png",
+      "id": "a189",
+      "description": "Stylish smartring with advanced health tracking and customizable rings faces."
+    },
+    {
+      "name": "Samsung Ai Ring",
+      "price": 6999,
+      "image": "/img/Samsungring.png",
+      "id": "a183",
+      "description": "Innovative smart ring with health tracking and customizable notifications."
+    }
+  ],
+  "sliderImages": [
+    {
+      "id": "1",
+      "image": "img/galaxyshow1.jpg",
+      "name": "Slide 1"
+    },
+    {
+      "id": "2",
+      "image": "img/galaxyshow2.jpg",
+      "name": "Slide 2"
+    },
+    {
+      "id": "3",
+      "image": "img/galaxyshow3.jpg",
+      "name": "Slide 3"
+    },
+    {
+      "id": "4",
+      "image": "img/galaxyshow4.jpg",
+      "name": "Slide 4"
+    }
+  ],
+  "Profiles": [
+    {
+      "id": "2",
+      "Email": "ak@gmail.com",
+      "Password": "1234",
+      "name": "Ajith Kumar"
+    },
+    {
+      "id": "3",
+      "Email": "billa@gmail.com",
+      "Password": "1234",
+      "name": "David Billa"
+    },
+    {
+      "id": "4",
+      "Email": "vinayak@gmail.com",
+      "Password": "1234",
+      "name": "Vinayak Mahadev"
+    },
+    {
+      "id": "fbff",
+      "name": "kumar",
+      "Email": "kumar@123",
+      "Password": "asdg"
+    }
+  ]
+}
