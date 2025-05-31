@@ -222,6 +222,31 @@
   "Todolist":[
     
   ],
-  "ChatBot": []
-  
+ "ChatBot": [
+  { "id": 1, "key": "rice", "response": "Rice is on the left side, 1st row, 2nd column." },
+  { "id": 2, "key": "wheat", "response": "Wheat is on the left side, 1st row, 3rd column." },
+  { "id": 3, "key": "sugar", "response": "Sugar is on the right side, 2nd row, 1st column." },
+  { "id": 4, "key": "salt", "response": "Salt is on the right side, 2nd row, 2nd column." },
+  { "id": 5, "key": "dal", "response": "Dal is on the left side, 3rd row, 1st column." },
+  { "id": 6, "key": "oil", "response": "Cooking oil is in the middle shelf, 1st row, 4th column." },
+  { "id": 7, "key": "milk", "response": "Milk is in the refrigerated section near the back." },
+  { "id": 8, "key": "bread", "response": "Bread is on the front shelf, 1st row, 1st column." },
+  { "id": 9, "key": "butter", "response": "Butter is in the refrigerated section, 2nd row, 3rd column." },
+  { "id": 10, "key": "eggs", "response": "Eggs are in the cold storage unit, 2nd row, 4th column." },
+  { "id": 11, "key": "onion", "response": "Onions are in the vegetable rack, bottom left corner." },
+  { "id": 12, "key": "potato", "response": "Potatoes are in the vegetable rack, bottom right corner." },
+  { "id": 13, "key": "tomato", "response": "Tomatoes are in the fresh produce section, 1st crate." },
+  { "id": 14, "key": "chilli", "response": "Green chillies are in the vegetable rack, small basket on top." },
+  { "id": 15, "key": "turmeric", "response": "Turmeric powder is in the spices section, 1st row, 5th column." },
+  { "id": 16, "key": "chilli powder", "response": "Chilli powder is in the spices section, 1st row, 6th column." },
+  { "id": 17, "key": "garam masala", "response": "Garam masala is in the spices rack, 2nd row, 1st column." },
+  { "id": 18, "key": "soap", "response": "Bath soaps are in the personal care section, right side." },
+  { "id": 19, "key": "shampoo", "response": "Shampoo bottles are on the right rack, top shelf." },
+  { "id": 20, "key": "toothpaste", "response": "Toothpaste is in the personal care aisle, 2nd shelf." },
+  { "id": 21, "key": "tea", "response": "Tea packs are on the middle aisle, 2nd row, 3rd column." },
+  { "id": 22, "key": "coffee", "response": "Coffee is beside the tea section, 2nd row, 4th column." },
+  { "id": 23, "key": "biscuits", "response": "Biscuits are on the snack shelf, front right corner." },
+  { "id": 24, "key": "noodles", "response": "Noodles are in the packed food aisle, 3rd row, 2nd column." },
+  { "id": 25, "key": "detergent", "response": "Detergent is on the cleaning supplies rack, bottom shelf." }
+]
 }
